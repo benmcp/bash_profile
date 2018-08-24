@@ -1,0 +1,20 @@
+{
+  "name": "bash_profile",
+  "version": "1.0.0",
+  "description": "This is my bash profile used across both work and my home computer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scotty-is-lazy": "sh ./script-because-scotty-is-lazy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmcp/bash_profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmcp/bash_profile/issues"
+  },
+  "homepage": "https://github.com/benmcp/bash_profile#readme"
+}
